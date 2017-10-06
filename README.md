@@ -1,6 +1,6 @@
-# AngularJS 1.5 webpack, babel, and karma example
+# AngularJS 1.5 webpack, babel, and Jest example
 
-This repository is an example of how to use AngularJS 1.5 with Webpack, Babel (ES6+), and Karma (Jasmine).
+This repository is an example of how to use AngularJS 1.5 with Webpack, Babel (ES6+), and Jest.
 
 # Run it
 
